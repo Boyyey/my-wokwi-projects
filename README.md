@@ -13,4 +13,4 @@
 <img width="857" height="664" alt="32x32 led matrix" src="https://github.com/user-attachments/assets/5235f60f-8daa-4558-bf03-0d13e3362537" />
 
 ## The Dino game with an Arduino
-<img width="951" height="813" alt="Dino-With-Arduino" src="https://github.com/user-attachments/assets/11dc8fce-cd4d-4343-a395-08fc58045a6f" />
+<img width="951" height="813" alt="Dino-With-Arduino" src="https://github.com/user-attachments/assets/a135f7c3-f83b-40b5-86eb-95ea383810ef" />

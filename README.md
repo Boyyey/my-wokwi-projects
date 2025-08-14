@@ -17,3 +17,6 @@
 
 ## the virtual safe 
 <img width="938" height="718" alt="V-safe" src="https://github.com/user-attachments/assets/3d457c2a-5fdb-423b-ba30-1d835d66434c" />
+
+## virtual compass with an arduino 
+<img width="947" height="699" alt="compass-with-an-arduino" src="https://github.com/user-attachments/assets/0a613ae4-d409-4061-a9d0-f81abb73d3c8" />

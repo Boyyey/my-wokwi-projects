@@ -23,3 +23,6 @@
 
 ## simon says with the esp32
 <img width="913" height="710" alt="simon-says-layout" src="https://github.com/user-attachments/assets/17583e5a-6b36-4408-897a-6227e9198533" />
+
+## joke generator esp32
+<img width="950" height="486" alt="Joke-Machine-With-Esp32" src="https://github.com/user-attachments/assets/c54ad7d6-d3f3-4e2c-99f6-446cf9ba44ce" />

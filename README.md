@@ -21,7 +21,7 @@
 ## virtual compass with an arduino 
 <img width="947" height="699" alt="compass-with-an-arduino" src="https://github.com/user-attachments/assets/0a613ae4-d409-4061-a9d0-f81abb73d3c8" />
 
-## simon says with the esp32
+## simon says arduino
 <img width="913" height="710" alt="simon-says-layout" src="https://github.com/user-attachments/assets/17583e5a-6b36-4408-897a-6227e9198533" />
 
 ## joke generator esp32

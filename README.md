@@ -26,3 +26,6 @@
 
 ## joke generator esp32
 <img width="950" height="486" alt="Joke-Machine-With-Esp32" src="https://github.com/user-attachments/assets/c54ad7d6-d3f3-4e2c-99f6-446cf9ba44ce" />
+
+## pong with an Arduino
+<img width="918" height="609" alt="arduino-for-pong" src="https://github.com/user-attachments/assets/737e1560-4015-43b5-8737-b28fb416b982" />
